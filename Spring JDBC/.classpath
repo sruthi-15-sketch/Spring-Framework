@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-aop-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-aspects-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-beans-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-context-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-context-indexer-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-context-support-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-core-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-expression-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-instrument-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-jcl-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-jdbc-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-jms-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-messaging-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-orm-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-oxm-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-test-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-tx-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-web-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-webflux-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-webmvc-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Desktop/Sruthi/Spring jar files/spring-websocket-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91801/Downloads/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
